@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tomorrow Partners LLP]]></title>
+        <description><![CDATA[Tomorrow Partners LLP]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 04 Apr 2016 08:36:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Tomorrow Partners]]></title>
+            <description><![CDATA[<article><h1>Welcome to Tomorrow Partners</h1><p>Tomorrow Partners is an expert provider of banking, capital markets and debt advisory services and solutions to our private-equity-focused clients.</p></article>]]></description>
+            <link>undefinedwelcome-to-tomorrow-partners/index.html</link>
+            <guid isPermaLink="false">df89964b-a2ea-4883-88ae-afb9510eea4e</guid>
+            <pubDate>Mon, 04 Apr 2016 08:36:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
